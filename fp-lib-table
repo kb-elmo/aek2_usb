@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name custom_parts)(type KiCad)(uri ${KIPRJMOD}/custom_parts)(options "")(descr ""))
+  (lib (name Alps_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/Alps_Only.pretty)(options "")(descr ""))
+)
