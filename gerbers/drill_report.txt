@@ -1,0 +1,28 @@
+Drill report for aek2_usb.kicad_pcb
+Created on Wed Aug  5 12:53:25 2020
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'aek2_usb.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.75mm  0.030"  (8 holes)
+    T2  0.80mm  0.031"  (280 holes)
+    T3  0.90mm  0.035"  (6 holes)
+    T4  1.00mm  0.039"  (8 holes)
+    T5  1.10mm  0.043"  (8 holes)
+    T6  1.47mm  0.058"  (210 holes)
+    T7  4.00mm  0.157"  (2 holes)
+
+    Total plated holes count 522
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

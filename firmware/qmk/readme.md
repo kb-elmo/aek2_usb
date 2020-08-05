@@ -1,6 +1,6 @@
-# m0116_usb
+# AEK 2 USB
 
-![m0116_usb](https://i.imgur.com/0l0W3oYl.jpg)
+![aek2usb](https://i.imgur.com/3325BHBl.jpg)
 
 Drop in replacement PCB for the Apple Extended Keyboard II
 
@@ -10,6 +10,6 @@ Drop in replacement PCB for the Apple Extended Keyboard II
 
 Make example for this keyboard (after setting up your build environment):
 
-    make elmospace/aek2_usb:default
+    make kb_elmo/aek2_usb:default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).

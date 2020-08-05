@@ -6,6 +6,9 @@
 The PCB is built entirely with THT parts to keep a somewhat "vintage" look to it and it uses the fullsize 40-pin DIP package ATmega32A.
 The controller is placed in the exact same location as the one on the original PCB.
 
+<img src="https://files.elmo.space/kicad_images/aek2_usb-Front.png" alt="drawing" height="300"/>
+<img src="https://files.elmo.space/kicad_images/aek2_usb-Back.png" alt="drawing" height="300"/>
+
 ### Partslist
  |Count|Part|
  |-|-|
