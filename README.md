@@ -15,7 +15,7 @@ The controller is placed in the exact same location as the one on the original P
  |1|ATmega32A 40 pin DIP (32L works too)|
  |1|40 pin DIP socket (optional but highly recommended)|
  |1|2x3 pin header 2.54mm (for ISP flashing)|
- |1|JST HA 2mm connector + cable|
+ |1|JST PH 2mm 4pin connector + cable|
  |1|USB breakout PCB|
  |1|500 mA polyfuse|
  |2|6mm momentary push buttons|
