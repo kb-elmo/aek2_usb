@@ -15,7 +15,7 @@ They don't have to be from any specific manufacturer or brand to work on this bo
 
 The USB breakout PCB/Daughterboard is NOT included in this repo. You will have to find one yourself.  
 Pretty much any kind of breakout board that has usable VCC, GND, D+ and D- pins should work for this.  
-Example: https://www.ebay.com/itm/363404000933
+Example: https://www.adafruit.com/product/1764
 
 |Count|Part|Designator|Octopart URL|
 |-|-|-|-|
