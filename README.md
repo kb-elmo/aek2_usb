@@ -23,7 +23,7 @@ Example: https://www.adafruit.com/product/1764
 |1|40 pin DIP socket (optional but highly recommended)|U1|[TE Connectivity 1-2199299-5](https://octopart.com/1-2199299-5-te+connectivity-34963610)|
 |1|2x3 pin header 2.54mm (for ISP flashing)|AVR1|[Würth 61200621721](https://octopart.com/61200621721-würth+elektronik-32855457)| 
 |1|JST PH 2mm 4pin connector + cable|J1, J2|[JST S4B-PH-K-S](https://octopart.com/s4b-ph-k-s+%28lf%29%28sn%29-jst-5373077)|
-|1|USB breakout PCB|||
+|1|USB breakout PCB||[Adafruit 1833](https://octopart.com/1833-adafruit+industries-53099556)|
 |1|500 mA polyfuse|F1|[Bourns MF-R050](https://octopart.com/mf-r050-bourns-19418)|
 |2|6mm momentary push buttons|RESET1, BOOT1|[TE Connectivity 1825910-6](https://octopart.com/1825910-6-te+connectivity-42270338)|
 |1|16 MHz quarz crystal|XTAL1|[Raltron AS-16.000-18](https://octopart.com/as-16.000-18-raltron+electronics-973373)|
